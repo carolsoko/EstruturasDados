@@ -13,7 +13,7 @@ Repositório da Disciplina de Estruturas de Dados do Curso de Bacharelado em Sis
 # Ementa
 
 Estruturas de Dados Simples, Ordenação. Custo computacional. Dados estruturados: definição e operações. Representação e manipulação de listas,
-pilhas, filas e tabelas de mapeamento. Árvores e suas generalizações: árvores binárias, árvores de busca, árvores A VL, árvores B e árvores coloridas. Grafos. Problemas de decisão e otimização: melhor caminho.
+pilhas, filas e tabelas de mapeamento. Árvores e suas generalizações: árvores binárias, árvores de busca, árvores AVL, árvores B e árvores coloridas. Grafos. Problemas de decisão e otimização: melhor caminho.
 
 # Objetivos
 
