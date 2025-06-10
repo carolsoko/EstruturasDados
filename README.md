@@ -42,9 +42,13 @@ Pretende-se ministrar aulas expositivas teóricas, articuladas com aplicabilidad
 
 # Avaliação
 Prova individual (P1) - 8,0pts
+
 Lista de Exercícios (L1) - 2,0pts
+
 Prova individual (P2) - 8,0pts
+
 Lista de Exercícios (L2) - 2,0pts
+
 Média = ((P1 + L1) + (P2 + L2))/2
 
 # Referências
