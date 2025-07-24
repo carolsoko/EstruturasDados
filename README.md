@@ -5,8 +5,10 @@ Repositório da Disciplina de Estruturas de Dados do Curso de Bacharelado em Sis
 [Link](https://github.com/carolsoko/SlidesED) para os slides da disciplina
 
 # Códigos fonte
-[Link](https://github.com/carolsoko/CodigosFonteLP1) para os códigos-fonte da disciplina
+[Link](https://github.com/carolsoko/CodigosFonteED) para os códigos-fonte da disciplina
 
+# Provas de Semestres Anteriores
+[Link](https://github.com/carolsoko/ProvasED) para provas anteriores da disciplina
 
 # Plano de Ensino de Estruturas de Dados
 
